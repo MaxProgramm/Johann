@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.8.0  -->
+
+<svg
+   shaper:fusionaddin="version:1.8.0"
+   width="1.5cm"
+   height="1.5cm"
+   version="1.1"
+   x="0cm"
+   y="0cm"
+   viewBox="0 0 1.5 1.5"
+   enable-background="new 0 0 1.5 1.5"
+   xml:space="preserve"
+   id="svg1"
+   sodipodi:docname="wheel.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"><defs
+     id="defs1" /><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     inkscape:zoom="0.45861111"
+     inkscape:cx="27.256208"
+     inkscape:cy="27.256208"
+     inkscape:window-width="1472"
+     inkscape:window-height="920"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" /><path
+     d="M-0.75,0 a0.75,0.75 0 1,1 1.5,0 a0.75,0.75 0 1,1 -1.5,0z"
+     transform="matrix(1,0,0,-1,0.75,0.75)"
+     fill="rgb(0,0,0)"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1"
+     style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.001;stroke-dasharray:none" /></svg>
