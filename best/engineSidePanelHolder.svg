@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.8.0  -->
+
+<svg
+   shaper:fusionaddin="version:1.8.0"
+   width="5.6941957cm"
+   height="0.7908701cm"
+   version="1.1"
+   x="0cm"
+   y="0cm"
+   viewBox="0 0 5.6941957 0.7908701"
+   enable-background="new 0 0 5.6941957 0.7908701"
+   xml:space="preserve"
+   id="svg1"
+   sodipodi:docname="engineSidePanelHolder.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"><defs
+     id="defs1" /><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     inkscape:zoom="0.86982261"
+     inkscape:cx="107.49318"
+     inkscape:cy="14.370746"
+     inkscape:window-width="1376"
+     inkscape:window-height="588"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" /><path
+     d="M-2.495447,-0.2446974 L-2.4433114,-0.5401325 -2.2433114,-0.5401325 -2.295447,-0.2446974 2.5818108,-0.2446974 2.555743,-0.0969799 2.8511781,-0.0448443 2.8251103,0.1028733 2.5296752,0.0507377 2.4943811,0.2507377 -2.5475826,0.2507377 -2.5475826,0.0507377 -2.8430177,-0.0013979 -2.7908821,-0.296833 -2.495447,-0.2446974z"
+     transform="matrix(1,0,0,-1,2.8430177,0.2507377)"
+     fill="rgb(0,0,0)"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1"
+     style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:0.001;stroke-dasharray:none" /></svg>
